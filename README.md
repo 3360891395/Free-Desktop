@@ -39,6 +39,8 @@ pps:yandex邮箱注册教程：[https://www.spiritlhl.top/54/#%E5%89%8D%E6%9C%9F
 
 在settings里找到Maintenance Mode并开启它，使得容器被隔离暂停服务
 
+### 谨慎使用，过度使用有可能会被封号！
+
 # 相关项目推荐
 
 [https://github.com/spiritLHL/Hang-up-items](https://github.com/spiritLHL/Hang-up-items)
