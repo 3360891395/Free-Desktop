@@ -1,5 +1,8 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 ## 部署在Heroku上的免费桌面服务
+
+# 没需求别整，容易封号！！！
+
 ## 说明
 ### 配置：
 
