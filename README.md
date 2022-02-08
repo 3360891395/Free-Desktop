@@ -47,11 +47,3 @@ pps:yandex邮箱注册教程：[https://www.spiritlhl.top/54/#%E5%89%8D%E6%9C%9F
 # 收到消息，如果部署完毕后把链接的仓库删了，好像不会封号，我没测试过，自担风险！！！！
 
 ### 谨慎使用，过度使用有可能会被封号！
-
-# 相关项目推荐
-
-[https://github.com/spiritLHL/Hang-up-items](https://github.com/spiritLHL/Hang-up-items)
-
-# 欢迎请站主喝一杯
-
-![](https://i.loli.net/2021/07/15/UPk5VbzAIC6OM7y.jpg)
